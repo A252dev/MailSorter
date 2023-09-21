@@ -1,0 +1,15 @@
+C:\Users\Agent\source\repos\MailSorter\bin\Debug\net6.0\MailSorter.exe
+C:\Users\Agent\source\repos\MailSorter\bin\Debug\net6.0\MailSorter.deps.json
+C:\Users\Agent\source\repos\MailSorter\bin\Debug\net6.0\MailSorter.runtimeconfig.json
+C:\Users\Agent\source\repos\MailSorter\bin\Debug\net6.0\MailSorter.dll
+C:\Users\Agent\source\repos\MailSorter\bin\Debug\net6.0\MailSorter.pdb
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.csproj.AssemblyReference.cache
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.AssemblyInfoInputs.cache
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.AssemblyInfo.cs
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.csproj.CoreCompileInputs.cache
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.dll
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\refint\MailSorter.dll
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.pdb
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\MailSorter.genruntimeconfig.cache
+C:\Users\Agent\source\repos\MailSorter\obj\Debug\net6.0\ref\MailSorter.dll
